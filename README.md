@@ -4,6 +4,7 @@
 Only numbers are allowed in the input box.<br>
 If user tries to enter any other value except in between  greater than 0 and less than exponential, it will be reset to zero
 
+<hr>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
